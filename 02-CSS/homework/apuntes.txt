@@ -1,0 +1,28 @@
+www.w3schools.com/
+
+
+1.  Framework 
+    Estilos predifinidos.  Facilita a elaborar interfaz.
+    Se debe aprender a hacer desde cero. Si se depende de framework css, de estilos predifinidos, tenemos gran riesgo.
+
+2.  Framework css
+    Catálogos predifinidos.
+    Marco de trabajo, template.
+
+3.  Boostrap
+    https://getbootstrap.com/
+    Todas las clases a nuestro favor y luego a utilizarlas
+    Componentes:  Botones, Carrusel, Modales (popup), acordeones, navbar (barras de navigación superiores), etc (lo que nos importan son las clases)
+
+4.  
+
+
+
+
+
+
+
+      
+
+
+
